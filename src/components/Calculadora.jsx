@@ -33,7 +33,7 @@ export default function Calculadora() {
     function showResult() {
         if (operator === "/") {
             setNum(parseFloat(oldnum) / parseFloat(num));
-        } else if (operator === "X") {
+        } else if (operator === "*") {
             setNum(parseFloat(oldnum) * parseFloat(num));
         } else if (operator === "-") {
             console.log(oldnum)

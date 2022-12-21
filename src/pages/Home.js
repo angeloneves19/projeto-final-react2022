@@ -1,10 +1,11 @@
+import  Home from "../components/Home"
 import Menu from "../components/Menu/Menu"
 
-export default function Home() {
+export default function PageHome() {
   return (
     <div>
       <Menu />
-      <h1>Boas vindas!</h1>
+      <Home />
     </div>
   )
 }
