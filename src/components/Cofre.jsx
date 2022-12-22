@@ -21,7 +21,7 @@ export default function Cofre() {
         if(num == 1234){
             setNum("aberto")
         }else{
-           setNum("fechado")
+           setNum("erro 404")
         }
     }
 
