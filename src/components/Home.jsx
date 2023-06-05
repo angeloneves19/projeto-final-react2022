@@ -12,7 +12,7 @@ export default function Home() {
       <h1 className="tituloTexto2">Quem sou eu? </h1>
       <p id="miniTexto">
         Sou Ângelo, da vila esmeralda,
-        tenho 17 anos, e estou no ensino medio na escola minuano,
+        tenho 18 anos, e estou no ensino medio na escola minuano,
         gosto de games, gosto de programar, gosto de informatica,
         e gosto de alguns animes.
       </p>
