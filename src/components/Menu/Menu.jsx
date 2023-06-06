@@ -5,7 +5,7 @@ const Menu = () => {
   return (
     <nav>
        <a>
-         <Link to="/" className="logo">Página inicial</Link>
+         <Link to="/" className="logo">Ângelo Codes</Link>
            </a>
               <ul className="nav-list">
                 <li>
