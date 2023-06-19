@@ -1,3 +1,9 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
 #Principal {
     width: 100%;
     height: 100%;
@@ -38,7 +44,7 @@
     margin: 0;
     padding: 15px;
     border: 0;
-    color: #FCFCFD;
+    color: #E4E7EB;
     width: 60px;
     height: 60px;
     min-width: 10px;
